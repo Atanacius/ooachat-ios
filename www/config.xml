@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.saphyconcept.fr.ooachat" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>OOAChat</name>
+    <description>
+        It's an android and ios application for connect to the Order Of Apocalypse Chat System for the game Rage of Bahamut.
+		2014 by Atanacius
+    </description>
+    <author email="Atanacius@users.noreply.github.com" href="http://site_a_definir.fr">
+        Atanacius
+    </author>
+    <content src="app_index.html" />
+    <access origin="*" />
+	
+	<preference name="KeepRunning" value="true"/>
+    <preference name="Fullscreen" value="true" />
+    <preference name="WebViewBounce" value="true" />
+</widget>
